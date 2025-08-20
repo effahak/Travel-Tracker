@@ -1,0 +1,17 @@
+{
+  "folders": [
+	{
+		"name": "webdev",
+		"path": "../../../webdev"
+	},
+	{
+		"name": "8.2 Postgres Read",
+		"path": "../../31 - PostgreSQL - Part 01/8.2 Postgres Read"
+	},
+	{
+		"name": "8.3 Travel Tracker",
+		"path": "."
+	}
+],
+  "settings": {}
+}
